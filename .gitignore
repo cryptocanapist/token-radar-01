@@ -1,0 +1,11 @@
+# Not part of the entry; the grader regenerates out/ and reads /input.
+kit/
+out/
+competition.json
+requirements.json
+leaderboard.json
+skill-fresh.md
+input-snapshot.json
+input-README.md
+PLAN.md
+check-local.txt
